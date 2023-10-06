@@ -9,7 +9,7 @@ namespace ConsoleApp1
             //Компьютерный практиукм №2
 
             //Задача 1
-
+            //Console.Title = "Программа №2 (Цвигуненко Юлия)";
             //double x1, y1, x2, y2, x3, y3, dlina1, dlina2, dlina3, P, S;
 
             //Console.WriteLine("Введите координаты точек:");
@@ -41,7 +41,7 @@ namespace ConsoleApp1
 
 
             //Задача 2
-
+            //Console.Title = "Программа №3 (Цвигуненко Юлия)";
             //Console.WriteLine("Введите расстояние поездки:");
             //double s = double.Parse(Console.ReadLine());
             //Console.WriteLine("Введите расход бензина на 100 км:");
@@ -54,7 +54,9 @@ namespace ConsoleApp1
 
 
             //Задача 3
-
+           
+            //Console.Title = "Программа №4 (Цвигуненко Юлия)";
+            
             //double bomboane, cookies, apples;
 
             //Console.WriteLine("Введите цену за 1 кг конфет:");

@@ -35,7 +35,7 @@ namespace ConsoleApp1
             //Console.WriteLine($"P={P}");
 
             //S = Math.Sqrt(P * (P - dlina1) * (P - dlina2) * (P - dlina3));
-            //Console.WriteLine("S=" + S);
+            //Console.WriteLine($"S={S}");
 
             //Console.ReadKey();
 
